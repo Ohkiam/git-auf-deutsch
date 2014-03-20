@@ -1,71 +1,64 @@
-# Git på svenska
+# Git auf Deutsch
 
-## Introduktion
+Die tägliche Kommunikation in deutschen Entwicklungsteams, die `git` 
+(übersetzt: `Schwachkopf`) anwenden, ist oft das feinste Denglish. 
+_"Kannst du bitte pullen"_ oder _"Hast du gepusht"_ sind nur zwei
+der oft seltsam klingenden Konstruktionen.
 
-Det dagliga språket för de olika kommandona i `git` (eller `jävel`) är
-på svenska ett enda stort svengelskakalas. Jag finner mig själv ofta
-sägandes _"Kan du pusha branchen?"_ eller _"Jag pullar!"_, vilket
-känns pinsamt.
+Git auf deutsch schafft abhilfe!
 
-Detta dokument ämnar etablera en ren svensk jargong som kan användas
-på arbetsplatsen för att med fördel undvika pressade situationer med
-kollegor samt boskap.
+## Forschläge
 
-## Förslag
+Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 
-Nedan följer tabeller över verb och substantiv relaterade till git,
-deras nuvarande bruk samt förslag på hur vi tillsammans kan bättra
-oss.
+| Verb        | Aktueller Gebrauch | Forschlag             |
+|-------------|--------------------|-----------------------|
+| pull        | pullen             | ziehen                |
+| push        | pushen             | drücken               |
+| fetch       | fetchen            | holen                 |
+| branch      | branchen           | abzweigen             |
+| commit      | commiten           | übergeben             |
+| rebase      | rebasen            | umschreiben           |
+| merge       | mergen             | vereinigen            |
+| stash       | stashen            | verstecken            |
+| tag         | tagen              | markieren             |
+| cherry-pick | cherry-picken      | rosinen herauspicken  |
 
-| Verb        | Nuvarande bruk | Förslag       |
-|-------------|----------------|---------------|
-| pull        | pulla          | rycka         |
-| push        | pusha          | trycka        |
-| fetch       | fetcha         | hämta         |
-| branch      | brancha        | förgrena      |
-| commit      | commita        | förbinda      |
-| rebase      | rebasa         | ombasera      |
-| merge       | merga          | sammanfoga    |
-| stash       | stasha         | gömma         |
-| tag         | tagga          | märka         |
-| cherry-pick | cherry-picka   | plocka russin |
+| Substantiv   | Aktueller Gebrauch | Forschlag     |
+|--------------|--------------------|---------------|
+| git          | git                | schwachkopf   |
+| repository   | repo               | lagerstätte   |
+| branch       | branch             | zweig         |
+| commit       | commit             | übergabe      |
+| pull request | pull request       | ziehbegehren  |
+| stash        | stash              | versteck      |
+| tag          | tag                | markierung    |
 
-| Substantiv   | Nuvarande bruk | Förslag     |
-|--------------|----------------|-------------|
-| git          | git            | jävel       |
-| repository   | repo           | förvaring   |
-| branch       | branch         | gren        |
-| commit       | commit         | förbindelse |
-| pull request | pull request   | ryckbegäran |
-| stash        | stash          | gömma       |
-| tag          | tagg           | märke       |
+## Beispiele
 
-## Exempel
+    - Kannst du den Zweig, den ich gerade umgeschrieben hab, ziehen und nach github drücken?
 
-    - Kan du rycka grenen jag just ombaserade och trycka till github?
+    - Ich hab gerade abgezweigt und die Änderungen aus meinem Versteck übergeben.
 
-    - Jag förgrenade alldeles nyss och förband ändringarna från min gömma där.
+    - Mach ein Ziehbegehren, wenn du mit der Vereinigung fertig bist!
 
-    - Skicka en ryckbegäran när du är färdig med sammanfogningen!
+    - Am besten wir picken uns die Rosinen aus dem Meisterzweig heraus.
 
-    - Låt oss plocka russin från mäster-grenen.
+## Git auf Deutsch anwenden
 
-## Dagligt bruk
+Wer den nächsten Schritt machen will, hier eine Anleitung, die Git auf Deutsch
+in Deine Konsole bringt. Da Git keine Umlaute zulässt, müssen wir in den 
+Befehlen leider darauf verzichten. Nimm folgende Änderungen in Deiner `~/.gitconfig` 
+vor:
 
-Nedan följer en rad kommandoradskommandon för att sätta upp en svensk
-gitmiljö. Avsaknaden av svenska tecken i täcknamnen beror på en brist i git
-(överväg att förbättra mjukvaran och skicka en ryckbegäran!). Följande
-kommandon ändrar din `~/.gitconfig` och kommer att verka globalt.
+    git config --global alias.zieh pull
+    git config --global alias.druck push
+    git config --global alias.zweig branch
+    git config --global alias.verzweigen branch
+    git config --global alias.ubergeben commit
+    git config --global alias.umschreiben rebase
+    git config --global alias.vereinigen merge
+    git config --global alias.verstecken stash
+    git config --global alias.markieren tag
 
-    git config --global alias.ryck pull
-    git config --global alias.tryck push
-    git config --global alias.gren branch
-    git config --global alias.forgrena branch
-    git config --global alias.forbinda commit
-    git config --global alias.ombasera rebase
-    git config --global alias.sammanfoga merge
-    git config --global alias.gom stash
-    git config --global alias.marke tag
-    git config --global alias.mark tag
-
-    alias jävel=git
+    alias schwachkopf=git
