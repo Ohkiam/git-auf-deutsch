@@ -11,7 +11,7 @@ Git auf deutsch schafft abhilfe!
 
 Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 
-| Verb        | Aktueller Gebrauch | Forschlag             |
+| Verb        | Aktueller Gebrauch | Vorschlag             |
 |-------------|--------------------|-----------------------|
 | pull        | pullen             | ziehen                |
 | push        | pushen             | drücken               |
@@ -24,7 +24,7 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 | tag         | tagen              | markieren             |
 | cherry-pick | cherry-picken      | rosinen herauspicken  |
 
-| Substantiv   | Aktueller Gebrauch | Forschlag     |
+| Substantiv   | Aktueller Gebrauch | Vorschlag     |
 |--------------|--------------------|---------------|
 | git          | git                | schwachkopf   |
 | repository   | repo               | lagerstätte   |
