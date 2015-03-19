@@ -31,14 +31,14 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 | branch       | branch             | zweig         |
 | commit       | commit             | übergabe      |
 | pull request | pull request       | ziehbegehren  |
-| stash        | stash              | versteck      |
+| stash        | stash              | bunkern       |
 | tag          | tag                | markierung    |
 
 ## Beispiele
 
     - Kannst du den Zweig, den ich gerade umgeschrieben hab, ziehen und nach github drücken?
 
-    - Ich hab gerade abgezweigt und die Änderungen aus meinem Versteck übergeben.
+    - Ich hab gerade abgezweigt und die Änderungen aus meinem Bunker übergeben.
 
     - Mach ein Ziehbegehren, wenn du mit der Vereinigung fertig bist!
 
@@ -58,7 +58,7 @@ vor:
     git config --global alias.ubergeben commit
     git config --global alias.umschreiben rebase
     git config --global alias.vereinigen merge
-    git config --global alias.verstecken stash
+    git config --global alias.bunkern stash
     git config --global alias.markieren tag
 
     alias schwachkopf=git
