@@ -7,7 +7,7 @@ der oft seltsam klingenden Konstruktionen.
 
 Git auf deutsch schafft abhilfe!
 
-## Forschläge
+## Vorschläge
 
 Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 
