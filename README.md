@@ -20,7 +20,7 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 | commit      | commiten           | übergeben             |
 | rebase      | rebasen            | umschreiben           |
 | merge       | mergen             | vereinigen            |
-| stash       | stashen            | verstecken            |
+| stash       | stashen            | bunkern               |
 | tag         | tagen              | markieren             |
 | cherry-pick | cherry-picken      | rosinen herauspicken  |
 
@@ -31,7 +31,7 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 | branch       | branch             | zweig         |
 | commit       | commit             | übergabe      |
 | pull request | pull request       | ziehbegehren  |
-| stash        | stash              | bunkern       |
+| stash        | stash              | bunker        |
 | tag          | tag                | markierung    |
 
 ## Beispiele
