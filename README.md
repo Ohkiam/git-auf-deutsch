@@ -54,11 +54,11 @@ vor:
     git config --global alias.zieh pull
     git config --global alias.druck push
     git config --global alias.zweig branch
-    git config --global alias.verzweigen branch
+    git config --global alias.verzweige branch
     git config --global alias.ubergeben commit
-    git config --global alias.umschreiben rebase
-    git config --global alias.vereinigen merge
-    git config --global alias.bunkern stash
-    git config --global alias.markieren tag
+    git config --global alias.schreibeum rebase
+    git config --global alias.vereinige merge
+    git config --global alias.bunkere stash
+    git config --global alias.markiere tag
 
     alias schwachkopf=git
