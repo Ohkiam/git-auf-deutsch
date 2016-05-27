@@ -18,7 +18,7 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 | fetch       | fetchen            | holen                 |
 | branch      | branchen           | abzweigen             |
 | commit      | commiten           | übergeben             |
-| rebase      | rebasen            | umschreiben           |
+| rebase      | rebasen            | (neu) erden           |
 | merge       | mergen             | vereinigen            |
 | stash       | stashen            | bunkern               |
 | tag         | tagen              | markieren             |
@@ -56,7 +56,7 @@ vor:
     git config --global alias.zweig branch
     git config --global alias.verzweigen branch
     git config --global alias.ubergeben commit
-    git config --global alias.umschreiben rebase
+    git config --global alias.erden rebase
     git config --global alias.vereinigen merge
     git config --global alias.bunkern stash
     git config --global alias.markieren tag
