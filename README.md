@@ -5,7 +5,7 @@ Die tägliche Kommunikation in deutschen Entwicklungsteams, die `git`
 _"Kannst du bitte pullen"_ oder _"Hast du gepusht"_ sind nur zwei
 der oft seltsam klingenden Konstruktionen.
 
-Git auf deutsch schafft abhilfe!
+Git auf deutsch schafft Abhilfe!
 
 ## Vorschläge
 
@@ -52,10 +52,10 @@ Befehlen leider darauf verzichten. Nimm folgende Änderungen in Deiner `~/.gitco
 vor:
 
     git config --global alias.zieh pull
-    git config --global alias.druck push
+    git config --global alias.drueck push
     git config --global alias.zweig branch
     git config --global alias.verzweige branch
-    git config --global alias.ubergeben commit
+    git config --global alias.uebergebe commit
     git config --global alias.erde rebase
     git config --global alias.vereinige merge
     git config --global alias.bunkere stash
