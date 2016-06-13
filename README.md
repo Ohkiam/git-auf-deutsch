@@ -24,19 +24,20 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 | tag         | tagen              | markieren             |
 | cherry-pick | cherry-picken      | rosinen herauspicken  |
 
-| Substantiv   | Aktueller Gebrauch | Vorschlag     |
-|--------------|--------------------|---------------|
-| git          | git                | schwachkopf   |
-| repository   | repo               | lagerstätte   |
-| branch       | branch             | zweig         |
-| commit       | commit             | übergabe      |
-| pull request | pull request       | ziehbegehren  |
-| stash        | stash              | bunker        |
-| tag          | tag                | markierung    |
+| Substantiv   | Aktueller Gebrauch | Vorschlag        |
+|--------------|--------------------|------------------|
+| git          | git                | schwachkopf      |
+| github       | github             | Schwachkopftreff |
+| repository   | repo               | lagerstätte      |
+| branch       | branch             | zweig            |
+| commit       | commit             | übergabe         |
+| pull request | pull request       | ziehbegehren     |
+| stash        | stash              | bunker           |
+| tag          | tag                | markierung       |
 
 ## Beispiele
 
-    - Kannst du den Zweig, den ich gerade umgeschrieben hab, ziehen und nach github drücken?
+    - Kannst du den Zweig, den ich gerade umgeschrieben hab, ziehen und zum Schwachkopftreff drücken?
 
     - Ich hab gerade abgezweigt und die Änderungen aus meinem Bunker übergeben.
 
