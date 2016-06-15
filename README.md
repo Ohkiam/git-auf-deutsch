@@ -27,7 +27,7 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 | Substantiv   | Aktueller Gebrauch | Vorschlag        |
 |--------------|--------------------|------------------|
 | git          | git                | schwachkopf      |
-| github       | github             | Schwachkopftreff |
+| github       | github             | schwachkopftreff |
 | repository   | repo               | lagerstätte      |
 | branch       | branch             | zweig            |
 | commit       | commit             | übergabe         |
