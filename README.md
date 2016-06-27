@@ -1,7 +1,7 @@
 # Git auf Deutsch
 
 Die tägliche Kommunikation in deutschen Entwicklungsteams, die `git` 
-(übersetzt: `Schwachkopf`) anwenden, ist oft das feinste Denglish. 
+(übersetzt: `Schwachkopf` oder `Depp`) anwenden, ist oft das feinste Denglish. 
 _"Kannst du bitte pullen"_ oder _"Hast du gepusht"_ sind nur zwei
 der oft seltsam klingenden Konstruktionen.
 
