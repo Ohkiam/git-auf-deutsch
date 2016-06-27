@@ -36,6 +36,7 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 | pull request | pull request       | Ziehbegehren     |
 | stash        | stash              | Bunker           |
 | tag          | tag                | Markierung       |
+| force push   | force-push         | Blitzkrieg       |
 
 ## Beispiele
 
