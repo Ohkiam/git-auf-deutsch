@@ -22,12 +22,12 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 | merge       | mergen             | vereinigen            |
 | stash       | stashen            | bunkern               |
 | tag         | tagen              | markieren             |
-| cherry-pick | cherry-picken      | rosinen herauspicken  |
+| cherry-pick | cherry-picken      | Rosinen herauspicken  |
 
 | Substantiv   | Aktueller Gebrauch | Vorschlag        |
 |--------------|--------------------|------------------|
-| git          | git                | Schwachkopf      |
-| github       | github             | Schwachkopftreff |
+| git          | git                | Depp             |
+| github       | github             | Deppendrehkreuz  |
 | repository   | repo               | Lagerstätte      |
 | branch       | branch             | Zweig            |
 | commit       | commit             | Übergabe         |
@@ -37,7 +37,7 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 
 ## Beispiele
 
-    - Kannst du den Zweig, den ich gerade umgeschrieben hab, ziehen und zum Schwachkopftreff drücken?
+    - Kannst du den Zweig, den ich gerade umgeschrieben hab, ziehen und zum Deppendrehkreuz drücken?
 
     - Ich hab gerade abgezweigt und die Änderungen aus meinem Bunker übergeben.
 
@@ -62,4 +62,4 @@ vor:
     git config --global alias.bunkere stash
     git config --global alias.markiere tag
 
-    alias schwachkopf=git
+    alias depp=git
