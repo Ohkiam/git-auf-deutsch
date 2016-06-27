@@ -5,7 +5,7 @@ Die tägliche Kommunikation in deutschen Entwicklungsteams, die `git`
 _"Kannst du bitte pullen"_ oder _"Hast du gepusht"_ sind nur zwei
 der oft seltsam klingenden Konstruktionen.
 
-Git auf deutsch schafft Abhilfe!
+Git auf Deutsch schafft Abhilfe!
 
 ## Vorschläge
 
@@ -22,22 +22,22 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 | merge       | mergen             | vereinigen            |
 | stash       | stashen            | bunkern               |
 | tag         | tagen              | markieren             |
-| cherry-pick | cherry-picken      | rosinen herauspicken  |
+| cherry-pick | cherry-picken      | Rosinen herauspicken  |
 
 | Substantiv   | Aktueller Gebrauch | Vorschlag        |
 |--------------|--------------------|------------------|
-| git          | git                | schwachkopf      |
-| github       | github             | schwachkopftreff |
-| repository   | repo               | lagerstätte      |
-| branch       | branch             | zweig            |
-| commit       | commit             | übergabe         |
-| pull request | pull request       | ziehbegehren     |
-| stash        | stash              | bunker           |
-| tag          | tag                | markierung       |
+| git          | git                | Depp             |
+| github       | github             | Deppendrehkreuz  |
+| repository   | repo               | Lagerstätte      |
+| branch       | branch             | Zweig            |
+| commit       | commit             | Übergabe         |
+| pull request | pull request       | Ziehbegehren     |
+| stash        | stash              | Bunker           |
+| tag          | tag                | Markierung       |
 
 ## Beispiele
 
-    - Kannst du den Zweig, den ich gerade umgeschrieben hab, ziehen und zum Schwachkopftreff drücken?
+    - Kannst du den Zweig, den ich gerade umgeschrieben hab, ziehen und zum Deppendrehkreuz drücken?
 
     - Ich hab gerade abgezweigt und die Änderungen aus meinem Bunker übergeben.
 
@@ -49,7 +49,7 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 
 Wer den nächsten Schritt machen will, hier eine Anleitung, die Git auf Deutsch
 in Deine Konsole bringt. Da Git keine Umlaute zulässt, müssen wir in den 
-Befehlen leider darauf verzichten. Nimm folgende Änderungen in Deiner `~/.gitconfig` 
+Befehlen leider darauf verzichten. Nimm folgende Änderungen in deiner `~/.gitconfig`
 vor:
 
     git config --global alias.zieh pull
@@ -62,4 +62,4 @@ vor:
     git config --global alias.bunkere stash
     git config --global alias.markiere tag
 
-    alias schwachkopf=git
+    alias depp=git
