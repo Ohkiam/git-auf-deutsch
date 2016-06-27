@@ -24,16 +24,18 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 | tag         | tagen              | markieren             |
 | cherry-pick | cherry-picken      | Rosinen herauspicken  |
 
-| Substantiv   | Aktueller Gebrauch | Vorschlag        |
-|--------------|--------------------|------------------|
-| git          | git                | Depp             |
-| github       | github             | Deppendrehkreuz  |
-| repository   | repo               | Lagerstätte      |
-| branch       | branch             | Zweig            |
-| commit       | commit             | Übergabe         |
-| pull request | pull request       | Ziehbegehren     |
-| stash        | stash              | Bunker           |
-| tag          | tag                | Markierung       |
+| Substantiv    | Aktueller Gebrauch | Vorschlag            |
+|---------------|--------------------|----------------------|
+| git           | git                | Depp                 |
+| github        | github             | Deppendrehkreuz      |
+| gitlab        | gitlab             | Deppenlabor          |
+| repository    | repo               | Lagerstätte          |
+| branch        | branch             | Zweig                |
+| commit        | commit             | Übergabe             |
+| pull request  | pull request       | Ziehbegehren         |
+| merge request | merge request      | Vereinigungsbegehren |
+| stash         | stash              | Bunker               |
+| tag           | tag                | Markierung           |
 
 ## Beispiele
 
