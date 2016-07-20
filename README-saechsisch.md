@@ -21,7 +21,7 @@ Nu folgchen zwee Tabellen mit de Vorschlechen für den tächlichen Jebrauch.
 | rebase      | rebasen            | umschreiben            |
 | merge       | mergen             | zammmeeren         |
 | stash       | stashen            | indebude             |
-| tag         | tagen              | markieren              |
+| tag         | tagen              | margiern              |
 | cherry-pick | cherry-picken      | de rosinen rausglaubm  |
 
 | Substantiv   | Aktueller jebrauch | Vorschlach     |
