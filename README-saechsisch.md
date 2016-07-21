@@ -18,7 +18,7 @@ Nu folgchen zwee Tabellen mit de Vorschlechen für den tächlichen Jebrauch.
 | fetch       | fetchen            | holln                   |
 | branch      | branchen           | abzweijchen            |
 | commit      | commiten           | überjeben              |
-| rebase      | rebasen            | umschreiben            |
+| rebase      | rebasen            | umschreim              |
 | merge       | mergen             | zammmeeren         |
 | stash       | stashen            | indebude             |
 | tag         | tagen              | margiern              |
