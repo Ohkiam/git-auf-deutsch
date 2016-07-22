@@ -36,6 +36,7 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 | pull request  | pull request       | Ziehbegehren         |
 | merge request | merge request      | Vereinigungsbegehren |
 | stash         | stash              | Bunker               |
+| status        | status             | Zustand              |
 | tag           | tag                | Markierung           |
 
 ## Beispiele
@@ -65,5 +66,6 @@ vor:
     git config --global alias.bunkere stash
     git config --global alias.markiere tag
     git config --global alias.tagebuch log
+    git config --global alias.zustand status
 
     alias depp=git
