@@ -32,6 +32,7 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 | repository    | repo               | Lagerstätte          |
 | branch        | branch             | Zweig                |
 | commit        | commit             | Übergabe             |
+| log           | log                | Tagebuch             |
 | pull request  | pull request       | Ziehbegehren         |
 | merge request | merge request      | Vereinigungsbegehren |
 | stash         | stash              | Bunker               |
@@ -63,5 +64,6 @@ vor:
     git config --global alias.vereinige merge
     git config --global alias.bunkere stash
     git config --global alias.markiere tag
+    git config --global alias.tagebuch log
 
     alias depp=git
