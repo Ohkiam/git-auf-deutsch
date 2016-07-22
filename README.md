@@ -64,4 +64,6 @@ vor:
     git config --global alias.bunkere stash
     git config --global alias.markiere tag
 
+Und füge die folgende Zeile zu deiner `~/.bashrc` (oder das Äquivalent auf deinem Betriebssystem) hinzu:
+
     alias depp=git
