@@ -23,6 +23,7 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 | stash       | stashen            | bunkern               |
 | tag         | tagen              | markieren             |
 | cherry-pick | cherry-picken      | Rosinen herauspicken  |
+| checkout    | checkouten         | nehmen                |
 
 | Substantiv    | Aktueller Gebrauch | Vorschlag            |
 |---------------|--------------------|----------------------|
@@ -63,5 +64,8 @@ vor:
     git config --global alias.vereinige merge
     git config --global alias.bunkere stash
     git config --global alias.markiere tag
+    git config --global alias.nimm checkout
+
+Und füge die folgende Zeile zu deiner `~/.bashrc` (oder das Äquivalent auf deinem Betriebssystem) hinzu:
 
     alias depp=git
