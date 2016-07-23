@@ -58,7 +58,7 @@ vor:
     git config --global alias.drueck push
     git config --global alias.zweig branch
     git config --global alias.verzweige branch
-    git config --global alias.uebergebe commit
+    git config --global alias.uebergib commit
     git config --global alias.erde rebase
     git config --global alias.vereinige merge
     git config --global alias.bunkere stash
