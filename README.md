@@ -13,6 +13,7 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 
 | Verb        | Aktueller Gebrauch | Vorschlag             |
 |-------------|--------------------|-----------------------|
+| add         | adden              | hinzufügen            |
 | pull        | pullen             | ziehen                |
 | push        | pushen             | drücken               |
 | fetch       | fetchen            | holen                 |
@@ -20,11 +21,13 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 | commit      | commiten           | übergeben             |
 | rebase      | rebasen            | (neu) erden           |
 | merge       | mergen             | vereinigen            |
+| fork        | forken             | gabeln                |
 | stash       | stashen            | bunkern               |
 | tag         | tagen              | markieren             |
 | cherry-pick | cherry-picken      | Rosinen herauspicken  |
 | checkout    | checkouten         | nehmen                |
 
+<<<<<<< HEAD
 | Substantiv    | Aktueller Gebrauch | Vorschlag            |
 |---------------|--------------------|----------------------|
 | git           | git                | Depp                 |
@@ -37,6 +40,19 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 | merge request | merge request      | Vereinigungsbegehren |
 | stash         | stash              | Bunker               |
 | tag           | tag                | Markierung           |
+=======
+| Substantiv   | Aktueller Gebrauch | Vorschlag        |
+|--------------|--------------------|------------------|
+| git          | git                | Depp             |
+| github       | github             | Deppendrehkreuz  |
+| repository   | repo               | Lagerstätte      |
+| branch       | branch             | Zweig            |
+| commit       | commit             | Übergabe         |
+| pull request | pull request       | Ziehbegehren     |
+| stash        | stash              | Bunker           |
+| tag          | tag                | Markierung       |
+| force push   | force-push         | Blitzkrieg       |
+>>>>>>> 027023930c2ca2eda4eea970f9ba53f367e1e21c
 
 ## Beispiele
 
@@ -47,6 +63,8 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
     - Mach ein Ziehbegehren, wenn du mit der Vereinigung fertig bist!
 
     - Am besten wir picken uns die Rosinen aus dem Meisterzweig heraus.
+
+    - Gabeln Sie auf Deppendrehkreuz!
 
 ## Git auf Deutsch anwenden
 
