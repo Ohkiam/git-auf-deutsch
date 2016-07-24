@@ -35,9 +35,11 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 | repository    | repo               | Lagerstätte          |
 | branch        | branch             | Zweig                |
 | commit        | commit             | Übergabe             |
+| log           | log                | Tagebuch             |
 | pull request  | pull request       | Ziehbegehren         |
 | merge request | merge request      | Vereinigungsbegehren |
 | stash         | stash              | Bunker               |
+| status        | status             | Zustand              |
 | tag           | tag                | Markierung           |
 
 ## Beispiele
@@ -69,6 +71,8 @@ vor:
     git config --global alias.bunkere stash
     git config --global alias.markiere tag
     git config --global alias.nimm checkout
+    git config --global alias.tagebuch log
+    git config --global alias.zustand status
 
 Und füge die folgende Zeile zu deiner `~/.bashrc` (oder das Äquivalent auf deinem Betriebssystem) hinzu:
 
