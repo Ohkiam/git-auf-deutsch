@@ -1,7 +1,7 @@
 # Git auf Deutsch
 
-Die tägliche Kommunikation in deutschen Entwicklungsteams, die `git` 
-(übersetzt: `Schwachkopf` oder `Depp`) anwenden, ist oft das feinste Denglish. 
+Die tägliche Kommunikation in deutschen Entwicklungsteams, die `git`
+(übersetzt: `Schwachkopf` oder `Depp`) anwenden, ist oft das feinste Denglish.
 _"Kannst du bitte pullen"_ oder _"Hast du gepusht"_ sind nur zwei
 der oft seltsam klingenden Konstruktionen.
 
@@ -27,7 +27,6 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 | cherry-pick | cherry-picken      | Rosinen herauspicken  |
 | checkout    | checkouten         | nehmen                |
 
-<<<<<<< HEAD
 | Substantiv    | Aktueller Gebrauch | Vorschlag            |
 |---------------|--------------------|----------------------|
 | git           | git                | Depp                 |
@@ -40,19 +39,6 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 | merge request | merge request      | Vereinigungsbegehren |
 | stash         | stash              | Bunker               |
 | tag           | tag                | Markierung           |
-=======
-| Substantiv   | Aktueller Gebrauch | Vorschlag        |
-|--------------|--------------------|------------------|
-| git          | git                | Depp             |
-| github       | github             | Deppendrehkreuz  |
-| repository   | repo               | Lagerstätte      |
-| branch       | branch             | Zweig            |
-| commit       | commit             | Übergabe         |
-| pull request | pull request       | Ziehbegehren     |
-| stash        | stash              | Bunker           |
-| tag          | tag                | Markierung       |
-| force push   | force-push         | Blitzkrieg       |
->>>>>>> 027023930c2ca2eda4eea970f9ba53f367e1e21c
 
 ## Beispiele
 
@@ -69,7 +55,7 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 ## Git auf Deutsch anwenden
 
 Wer den nächsten Schritt machen will, hier eine Anleitung, die Git auf Deutsch
-in Deine Konsole bringt. Da Git keine Umlaute zulässt, müssen wir in den 
+in Deine Konsole bringt. Da Git keine Umlaute zulässt, müssen wir in den
 Befehlen leider darauf verzichten. Nimm folgende Änderungen in deiner `~/.gitconfig`
 vor:
 
