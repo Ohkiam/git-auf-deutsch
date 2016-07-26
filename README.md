@@ -22,6 +22,7 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 | branch      | branchen           | abzweigen             |
 | commit      | commiten           | übergeben             |
 | rebase      | rebasen            | (neu) erden           |
+| diff        | diffen             | unterscheiden         |
 | merge       | mergen             | vereinigen            |
 | fork        | forken             | gabeln                |
 | stash       | stashen            | bunkern               |
@@ -51,7 +52,7 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
     - Kannst du den Zweig, den ich gerade umgeschrieben hab, ziehen und zum Deppendrehkreuz drücken?
 
     - Dafür habe ich eine neue Lagerstätte eröffnet, mach sie nach und nimm dir den Entwicklungszweig.
-    
+
     - Nein, drücke das gleich zum Meister im Ursprung!
 
     - Ich hab gerade abgezweigt und die Änderungen aus meinem Bunker übergeben.
@@ -75,6 +76,7 @@ Wer den nächsten Schritt machen will, hier eine Anleitung, die Git auf Deutsch 
     git config --global alias.verzweige branch
     git config --global alias.uebergib commit
     git config --global alias.erde rebase
+    git config --global alias.unterscheide diff
     git config --global alias.vereinige merge
     git config --global alias.bunkere stash
     git config --global alias.markiere tag
