@@ -13,9 +13,11 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 
 | Verb        | Aktueller Gebrauch | Vorschlag             |
 |-------------|--------------------|-----------------------|
+| init        | initten            | eröffnen              |
 | add         | adden              | hinzufügen            |
 | pull        | pullen             | ziehen                |
 | push        | pushen             | drücken               |
+| clone       | clonen             | nachmachen            |
 | fetch       | fetchen            | holen                 |
 | branch      | branchen           | abzweigen             |
 | commit      | commiten           | übergeben             |
@@ -41,10 +43,16 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 | stash         | stash              | Bunker               |
 | status        | status             | Zustand              |
 | tag           | tag                | Markierung           |
+| origin        | origin             | Ursprung             |
+| master        | master             | Meister              |
 
 ## Beispiele
 
     - Kannst du den Zweig, den ich gerade umgeschrieben hab, ziehen und zum Deppendrehkreuz drücken?
+
+    - Dafür habe ich eine neue Lagerstätte eröffnet, mach sie nach und nimm dir den Entwicklungszweig.
+    
+    - Nein, drücke das gleich zum Meister im Ursprung!
 
     - Ich hab gerade abgezweigt und die Änderungen aus meinem Bunker übergeben.
 
@@ -56,12 +64,12 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 
 ## Git auf Deutsch anwenden
 
-Wer den nächsten Schritt machen will, hier eine Anleitung, die Git auf Deutsch
-in Deine Konsole bringt. Da Git keine Umlaute zulässt, müssen wir in den
-Befehlen leider darauf verzichten. Nimm folgende Änderungen in deiner `~/.gitconfig`
-vor:
+Wer den nächsten Schritt machen will, hier eine Anleitung, die Git auf Deutsch in Deine Konsole bringt. Da Git keine Umlaute zulässt, müssen wir in den Befehlen leider darauf verzichten. Nimm folgende Änderungen in deiner `~/.gitconfig` vor:
 
+    git config --global alias.eroeffne init
+    git config --global alias.machnach clone
     git config --global alias.zieh pull
+    git config --global alias.fueghinzu add
     git config --global alias.drueck push
     git config --global alias.zweig branch
     git config --global alias.verzweige branch
