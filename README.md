@@ -26,7 +26,7 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 | merge       | mergen             | vereinigen            |
 | fork        | forken             | gabeln                |
 | stash       | stashen            | bunkern               |
-| tag         | tagen              | markieren             |
+| tag         | taggen             | markieren             |
 | cherry-pick | cherry-picken      | Rosinen herauspicken  |
 | checkout    | checkouten         | nehmen                |
 
