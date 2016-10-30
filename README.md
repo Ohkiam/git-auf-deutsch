@@ -72,6 +72,7 @@ Wer den nächsten Schritt machen will, hier eine Anleitung, die Git auf Deutsch 
     git config --global alias.zieh pull
     git config --global alias.fueghinzu add
     git config --global alias.drueck push
+    git config --global alias.pfusch push --force
     git config --global alias.zweig branch
     git config --global alias.verzweige branch
     git config --global alias.uebergib commit
