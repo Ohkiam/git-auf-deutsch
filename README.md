@@ -35,6 +35,7 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 | git           | git                | Depp                 |
 | github        | github             | Deppendrehkreuz      |
 | gitlab        | gitlab             | Deppenlabor          |
+| gitea         | gitea              | Deppentee                
 | bitbucket     | bitbucket          | Gebisseimer          |
 | repository    | repo               | Lagerstätte          |
 | branch        | branch             | Zweig                |
