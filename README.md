@@ -65,9 +65,9 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 
     - Gabeln Sie auf Deppendrehkreuz!
 
-## Git auf Deutsch anwenden
+## Depp auf Deutsch anwenden
 
-Wer den nächsten Schritt machen will, hier eine Anleitung, die Git auf Deutsch in Deine Konsole bringt. Da Git keine Umlaute zulässt, müssen wir in den Befehlen leider darauf verzichten. Nimm folgende Änderungen in deiner `~/.gitconfig` vor:
+Wer den nächsten Schritt machen will, hier eine Anleitung, die Depp auf Deutsch in Deine Konsole bringt. Da Depp keine Umlaute zulässt, müssen wir in den Befehlen leider darauf verzichten. Nimm folgende Änderungen in deiner `~/.gitconfig` vor:
 
     git config --global alias.eroeffne init
     git config --global alias.machnach clone
