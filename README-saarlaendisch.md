@@ -18,7 +18,7 @@ Lo kummen ewei zwo Tabelle mit Vorschläsch fia jere Dach
 | pull        | pullen             | zije              |
 | push        | pushen             | drigge            |
 | clone       | clonen             | nomache           |
-| fetch       | fetchen            | holle             |
+| fetch       | fetchen            | abholle           |
 | branch      | branchen           | abzwaije          |
 | commit      | commiten           | iwagen            |
 | rebase      | rebasen            | umschreiwe        |
@@ -29,17 +29,17 @@ Lo kummen ewei zwo Tabelle mit Vorschläsch fia jere Dach
 | tag         | tagen              | makkiere          |
 | cherry-pick | cherry-picken      | die rosiene pigge |
 | checkout    | checkouten         | holle             |
+| log         | log                | nogugge           |
 
 | Substantiv    | Aktueller Gebrauch | Vorschlach        |
 | ------------- | ------------------ | ----------------- |
 | git           | git                | Dommbeidel        |
 | github        | github             | Dommbeidelzentrum |
 | gitlab        | gitlab             | Dommbeidellaboa   |
-| bitbucket     | bitbucket          | Zänndippschje     |
+| bitbucket     | bitbucket          | Eifeltee-eemer    |
 | repository    | repo               | Laga              |
 | branch        | branch             | Aschd             |
 | commit        | commit             | Üwagab            |
-| log           | log                | Tagebuch          |
 | pull request  | pull request       | Zihhanfroh        |
 | merge request | merge request      | Sesammeleeanfroh  |
 | stash         | stash              | Bunga             |
