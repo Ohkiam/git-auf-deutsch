@@ -1,15 +1,15 @@
-# Git auf Deutsch (Saarländisch)
+# Git uff Deutsch (Saarländisch)
 
 Et imma wirrakehrende Gelaba in deitsche Entwicklateams, die `git`
-(übersetzt: `Schwachkopf`) benutze, is oft et feinschde Denglish.
+(iwwasetzt: `Dommbeidel` odda `Dummschwenker`) benutze, is oft et feinschde Denglish.
 _"Kanschde mo bitte pulle"_ orra _"Haschde gepusht"_ sinn nua zwo
 von de komisch klingenschde Konschdruktione.
 
-Git off Deitsch (Saarländisch) hiflt da dodebei!
+Git off Deitsch (Saarländisch) helft da dodebei!
 
 ## Vorschläsch
 
-Lo kummen ewei zwo Tabelle mit Vorschläsch fia jere Dach
+Lo kummen ewei zwo Tabelle mit Vorschläsch fia jeden Daach
 
 | Verb        | Aktueller Gebrauch | Vorschlach        |
 | ----------- | ------------------ | ----------------- |
