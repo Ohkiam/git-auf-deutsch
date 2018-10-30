@@ -48,7 +48,7 @@ Do sen zwoi Tabelle mit Vorschläg wia mer schdattdesse schwätze ko.
 | origin        | origin             | Urschbrung           |
 | master        | master             | Meischdr             |
 
-## Beispiele
+## Beischbiele
 
     - Kosch du grad mol des Äschdle, wo i grad omgschriebe hab, ziage ond zur Segglzendrale drigge?
 
