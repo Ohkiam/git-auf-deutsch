@@ -43,7 +43,7 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 | log           | log                | Tagebuch             |
 | pull request  | pull request       | Ziehbegehren         |
 | merge request | merge request      | Vereinigungsbegehren |
-| stash         | stash              | Bunker               |
+| stash         | stash              | Versteck             |
 | status        | status             | Zustand              |
 | tag           | tag                | Markierung           |
 | origin        | origin             | Ursprung             |
@@ -57,7 +57,7 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 
     - Nein, drücke das gleich zum Meister im Ursprung!
 
-    - Ich hab gerade abgezweigt und die Änderungen aus meinem Bunker übergeben.
+    - Ich hab gerade abgezweigt und die Änderungen aus meinem Versteck übergeben.
 
     - Mach ein Ziehbegehren, wenn du mit der Vereinigung fertig bist!
 
