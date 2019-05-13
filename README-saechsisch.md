@@ -1,64 +1,64 @@
-# Git auf Deutsch (Sächsische)
+# Git auf Deutsch (Säggssch)
 
-De dägliche gommunigation in deutschen Endwicklungsteams, wo die `git` 
-(übersetzt: `Schwachkopf`) anwenden tun, is oft das feinste Denglish. 
-_"Kannste ma pulln"_ oder _"Haste jepushd"_ sin nur zwee
-dor seltsam klingden ausdrügge.
+Die däschliche gommunigation in deutschen Endwiglungsteams, in den `git` 
+(übersetzt: `Schwachkopf`) eigesetzt werd, is sehr oft Denglish. 
+_"Kannste ma bulln"_ oder _"Haste gebuschd"_ sin nur zwee
+dor seltsam klingden Ausdrigge.
 
-Git auf deutsch (Sächsische) schafft abhilfe!
+Git auf Deutsch (Säggssch) schafft Abhilfe!
 
-## Vorschläche
+## Vorschläsche
 
-Nu folgchen zwee Tabellen mit de Vorschlechen für den tächlichen Jebrauch.
+Nu folschen zwee Dabelln mit Vorschläschen für den däglichen Gebrauch.
 
-| Verb        | Aktueller Jebrauch | Vorschlach             |
+| Verb        | Aktueller Gebrauch | Vorschlach             |
 |-------------|--------------------|------------------------|
-| pull        | pullen             | zeern                  |
-| push        | pushen             | drügggn                |
-| fetch       | fetchen            | holln                   |
-| branch      | branchen           | abzweijchen            |
-| commit      | commiten           | überjeben              |
-| rebase      | rebasen            | umschreim              |
-| merge       | mergen             | zammmeeren         |
-| stash       | stashen            | indebude             |
-| tag         | tagen              | margiern              |
-| cherry-pick | cherry-picken      | de rosinen rausglaubm  |
+| pull        | pullen             | zerrn                  |
+| push        | pushen             | driggn                 |
+| fetch       | fetchen            | holln                  |
+| branch      | branchen           | abzweijschen           |
+| commit      | commiten           | iebergehm              |
+| rebase      | rebasen            | umschreihm             |
+| merge       | mergen             | zammmeern              |
+| stash       | stashen            | indebuchdeschdelln     |
+| tag         | tagen              | margiern               |
+| cherry-pick | cherry-picken      | de Rosinen rausglaum   |
 
-| Substantiv   | Aktueller jebrauch | Vorschlach     |
+| Substantiv   | Aktueller Gebrauch | Vorschlach    |
 |--------------|--------------------|---------------|
-| git          | git                | blinse   |
-| repository   | repo               | lareerstätte   |
-| branch       | branch             | zweeg         |
-| commit       | commit             | überjabe      |
-| pull request | pull request       | nimmdasanfrache  |
-| stash        | stash              | buchte      |
+| git          | git                | Blinse        |
+| repository   | repo               | Laacherschdädde  |
+| branch       | branch             | Zweesch       |
+| commit       | commit             | Iebergabe     |
+| pull request | pull request       | Nimmdasanfrache  |
+| stash        | stash              | Buchde      |
 | tag          | tag                | margiern    |
 
 ## Beispiele
 
-    - Kannste de den Zweeg, den ich gerade umjeschrim hawve, zern un nach github drüggn?
+    - Kannste de den Zweesch, den ich gerade umgeschriem hab, zerrn un zu Github drüggn?
 
-    - Ich hawve gerade abjezweegt und de Änderungen aus meiner buchte überjem.
+    - Isch hab grade abgezweescht und de Änderung aus meiner Buchde iebergehm.
 
-    - Mache een nimmdasanfrache, wenn de mit dem zammmeeren fertch bist!
+    - Mach eene Nimmdasanfrache, wenn de mit dem Zammmeeren fertsch bist!
 
-    - Am besten wir glauben uns die Rosinen aus dem Meisterzweeg heraus.
+    - Am besten mier glaum uns de Rosin ausm Meisterzweesch.
 
-## Git auf Deutsch (Sächsisch) anwenden
+## Git auf Deutsch (Säggssch) anwenden
 
 Wer den nächsten Schritt machen will, hier eine Anleitung, die Git auf Deutsch
 in Deine Konsole bringt. Da Git keine Umlaute zulässt, müssen wir in den 
 Befehlen leider darauf verzichten. Nimm folgende Änderungen in Deiner `~/.gitconfig` 
 vor:
 
-    git config --global alias.zeern pull
-    git config --global alias.druck push
-    git config --global alias.zwee branch
-    git config --global alias.verzweechn branch
-    git config --global alias.uberjem commit
+    git config --global alias.zerrn pull
+    git config --global alias.driggn push
+    git config --global alias.zweesch branch
+    git config --global alias.verzweeschn branch
+    git config --global alias.iebergehm commit
     git config --global alias.umschreim rebase
-    git config --global alias.zammmeeren merge
-    git config --global alias.indebude stash
+    git config --global alias.zammmeern merge
+    git config --global alias.indebuchde stash
     git config --global alias.margiern tag
 
     alias blinse=git
